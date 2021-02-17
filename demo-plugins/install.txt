@@ -1,0 +1,8 @@
+Installation 
+
+1. Import database demo.sql into your current sximo database
+2. Go to Module management and upload demo.zip -> then install 
+3. edit every module permission
+4. create menu for each module .
+
+Enjoy !!
